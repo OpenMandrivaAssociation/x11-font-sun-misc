@@ -1,6 +1,6 @@
 Name: x11-font-sun-misc
 Version: 1.0.3
-Release: %mkrel 4
+Release: 5
 Summary: Xorg X11 font sun-misc
 Group: Development/X11
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
