@@ -1,6 +1,6 @@
 Name: x11-font-sun-misc
 Version: 1.0.3
-Release: 10
+Release: 11
 Summary: Xorg X11 font sun-misc
 Group: Development/X11
 URL: http://xorg.freedesktop.org
